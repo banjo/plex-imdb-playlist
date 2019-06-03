@@ -1,0 +1,3 @@
+plexapi
+beautifulsoup4
+requests
